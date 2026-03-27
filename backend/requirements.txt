@@ -10,7 +10,7 @@ langchain-openai>=0.2.3
 langchain-community>=0.3.2
 faiss-cpu==1.8.0
 tiktoken>=0.7.0
-python-multipart==0.0.12
+python-multipart==0.0.22
 httpx>=0.23.0
 python-dotenv==1.0.1
 aiosqlite==0.20.0
