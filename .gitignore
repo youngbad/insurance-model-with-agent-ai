@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# SQLite databases
+*.db
+*.sqlite
+
+# Vector store (large binary files)
+backend/data/vector_store/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+frontend/dist-ssr/
+*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.docker/
+
+# Logs
+*.log
+logs/
